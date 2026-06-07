@@ -1,2 +1,3 @@
 # Noahs-Hub-Games-js
-js of all 416 games on Noah Tutoring Hub
+All 416 games on Noah Tutoring Hub
+Made for my games web site https://sigma-games.dev
