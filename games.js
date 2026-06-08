@@ -1,6 +1,3 @@
-// Noah's Games List [416]
-// Made For Sigma Games
-
 const games = [
   { title: "I Have No Mouth, and I Must Scream", desc: "A psychological horror adventure where you must outsmart a malevolent AI in a series of twisted trials.", url: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/games/413.html", image: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/images/413.jpg" },
   { title: "CheeseRoll", desc: "A physics-based racing game where you chase a giant wheel of cheese down a steep, treacherous hill.", url: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/games/414.html", image: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/images/414.jpg" },
